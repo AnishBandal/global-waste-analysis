@@ -1,0 +1,143 @@
+{
+  "chart": {
+    "title": "Plastic waste generation by industrial sector",
+    "subtitle": "Measured in tonnes per year.",
+    "note": "Regional aggregates were calculated by Our World in Data and are based on those specified by the OECD.",
+    "citation": "OECD (2022)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/plastic-waste-generation-by-industrial-sector?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Total",
+      "Packaging"
+    ]
+  },
+  "columns": {
+    "Plastic waste by application in 2019 - Entity: China": {
+      "titleShort": "China",
+      "titleLong": "China",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 814612,
+      "shortName": "plastic_waste__entity_china",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “China” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814612.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: United States": {
+      "titleShort": "United States",
+      "titleLong": "United States",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 814638,
+      "shortName": "plastic_waste__entity_united_states",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “United States” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814638.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: Europe": {
+      "titleShort": "Europe",
+      "titleLong": "Europe",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 815657,
+      "shortName": "plastic_waste__entity_europe",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “Europe” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/815657.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: India": {
+      "titleShort": "India",
+      "titleLong": "India",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 814614,
+      "shortName": "plastic_waste__entity_india",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “India” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814614.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: Oceania": {
+      "titleShort": "Oceania",
+      "titleLong": "Oceania",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 815659,
+      "shortName": "plastic_waste__entity_oceania",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “Oceania” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/815659.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: World": {
+      "titleShort": "World",
+      "titleLong": "World",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 814640,
+      "shortName": "plastic_waste__entity_world",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “World” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814640.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: Sub-Saharan Africa": {
+      "titleShort": "Sub-Saharan Africa",
+      "titleLong": "Sub-Saharan Africa",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 815661,
+      "shortName": "plastic_waste__entity_sub_saharan_africa",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “Sub-Saharan Africa” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/815661.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: Middle East & North Africa": {
+      "titleShort": "Middle East & North Africa",
+      "titleLong": "Middle East & North Africa",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 814618,
+      "shortName": "plastic_waste__entity_middle_east__and__north_africa",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “Middle East & North Africa” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814618.metadata.json"
+    },
+    "Plastic waste by application in 2019 - Entity: Asia (excl. China and India)": {
+      "titleShort": "Asia (excl. China and India)",
+      "titleLong": "Asia (excl. China and India)",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2019-2019",
+      "type": "Numeric",
+      "owidVariableId": 815655,
+      "shortName": "plastic_waste__entity_asia__excl__china_and_india",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2022) – processed by Our World in Data",
+      "citationLong": "OECD (2022) – processed by Our World in Data. “Asia (excl. China and India)” [dataset]. OECD, “Global Plastics Outlook – Plastics waste in 2019 by region, polymer and application” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/815655.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-10-01",
+  "activeFilters": {}
+}

@@ -1,0 +1,38 @@
+{
+  "chart": {
+    "title": "Share of cumulative plastic exports by top ten exporters",
+    "subtitle": "Share of cumulative plastic exports over the period 1988 to 2016 by the top ten exporting countries.",
+    "citation": "Brooks et al. (2018)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/share-of-cumulative-plastic-exports?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "Canada",
+      "Top 10 exporters",
+      "Belgium",
+      "France",
+      "Germany",
+      "Hong Kong",
+      "Japan",
+      "Mexico",
+      "Netherlands",
+      "United Kingdom",
+      "United States"
+    ]
+  },
+  "columns": {
+    "Share of global exports (%)": {
+      "titleShort": "Share of global exports (%)",
+      "titleLong": "Share of global exports (%)",
+      "unit": "%",
+      "timespan": "2016-2016",
+      "type": "Numeric",
+      "owidVariableId": 1206735,
+      "shortName": "share_of_global_exports__pct",
+      "lastUpdated": "2018-09-01",
+      "citationShort": "Brooks et al. (2018) – processed by Our World in Data",
+      "citationLong": "Brooks et al. (2018) – processed by Our World in Data. “Share of global exports (%)” [dataset]. Brooks et al., “The Chinese import ban and its impact on global plastic waste trade” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/1206735.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-10-01",
+  "activeFilters": {}
+}

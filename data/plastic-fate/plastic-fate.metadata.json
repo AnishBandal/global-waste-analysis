@@ -1,0 +1,72 @@
+{
+  "chart": {
+    "title": "Annual plastic waste by disposal method",
+    "subtitle": "Mismanaged plastic waste includes materials burned in open pits, dumped into seas or open waters, or disposed of in unsanitary landfills and dumpsites.",
+    "note": "Regional aggregates were calculated by Our World in Data and are based on those specified by the OECD.",
+    "citation": "OECD (2023)",
+    "originalChartUrl": "https://ourworldindata.org/grapher/plastic-fate?v=1&csvType=full&useColumnShortNames=false",
+    "selection": [
+      "World"
+    ]
+  },
+  "columns": {
+    "Recycled": {
+      "titleShort": "Recycled",
+      "titleLong": "Recycled",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2000-2019",
+      "type": "Integer",
+      "owidVariableId": 814671,
+      "shortName": "value_recycled",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2023) – processed by Our World in Data",
+      "citationLong": "OECD (2023) – processed by Our World in Data. “Recycled” [dataset]. OECD, “Global Plastics Outlook – Plastics waste by region and end-of-life fate” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814671.metadata.json"
+    },
+    "Incinerated": {
+      "titleShort": "Incinerated",
+      "titleLong": "Incinerated",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2000-2019",
+      "type": "Numeric",
+      "owidVariableId": 814667,
+      "shortName": "value_incinerated",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2023) – processed by Our World in Data",
+      "citationLong": "OECD (2023) – processed by Our World in Data. “Incinerated” [dataset]. OECD, “Global Plastics Outlook – Plastics waste by region and end-of-life fate” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814667.metadata.json"
+    },
+    "Littered and mismanaged": {
+      "titleShort": "Mismanaged",
+      "titleLong": "Mismanaged",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2000-2019",
+      "type": "Integer",
+      "owidVariableId": 815663,
+      "shortName": "littered_mismanaged_combined",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2023) – processed by Our World in Data",
+      "citationLong": "OECD (2023) – processed by Our World in Data. “Mismanaged” [dataset]. OECD, “Global Plastics Outlook – Plastics waste by region and end-of-life fate” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/815663.metadata.json"
+    },
+    "Landfilled": {
+      "titleShort": "Landfilled",
+      "titleLong": "Landfilled",
+      "shortUnit": "t",
+      "unit": "tonnes",
+      "timespan": "2000-2019",
+      "type": "Integer",
+      "owidVariableId": 814668,
+      "shortName": "value_landfilled",
+      "lastUpdated": "2023-09-21",
+      "citationShort": "OECD (2023) – processed by Our World in Data",
+      "citationLong": "OECD (2023) – processed by Our World in Data. “Landfilled” [dataset]. OECD, “Global Plastics Outlook – Plastics waste by region and end-of-life fate” [original data].",
+      "fullMetadata": "https://api.ourworldindata.org/v1/indicators/814668.metadata.json"
+    }
+  },
+  "dateDownloaded": "2026-10-01",
+  "activeFilters": {}
+}
